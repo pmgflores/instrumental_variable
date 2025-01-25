@@ -14,7 +14,7 @@ The analysis follows these steps:
 5. Show the estimation mistakes if we don’t use IV for this example
 
 ## References
-Based on the blog post: ["Instrumental Varibles"](http://pablomflores.com/instrumental-variables) by Pablo M. Flores.
+This repo contains the complementary materials of the post: ["Instrumental Varibles"](http://pablomflores.com/instrumental-variables) by Pablo M. Flores.
 
 ## License
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
